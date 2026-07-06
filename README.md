@@ -268,21 +268,3 @@
   [![PDF](https://img.shields.io/badge/PDF-CVF-red)](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Text-IRSTD_Leveraging_Semantic_Text_to_Promote_Infrared_Small_Target_Detection_ICCV_2025_paper.pdf)
   [![arXiv](https://img.shields.io/badge/arXiv-2503.07249-b31b1b)](https://arxiv.org/abs/2503.07249)
   [![Code/Dataset](https://img.shields.io/badge/Code%2FDataset-GitHub-black)](https://github.com/Zhengsy0407/Text-IRSTD)
-
-
-## Useful Collections / Benchmarks / Toolboxes
-
-- **Awesome Infrared Small Targets**  
-  [![List](https://img.shields.io/badge/List-Awesome-orange)](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets)
-
-- **BasicIRSTD Toolbox**  
-  [![Toolbox](https://img.shields.io/badge/Toolbox-BasicIRSTD-orange)](https://github.com/XinyiYing/BasicIRSTD)
-
-- **SIRST Dataset**  
-  [![Dataset](https://img.shields.io/badge/Dataset-SIRST-orange)](https://github.com/YimianDai/sirst)
-
-- **NUDT-SIRST / DNANet Repository**  
-  [![Dataset](https://img.shields.io/badge/Dataset-NUDT--SIRST-orange)](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
-
-- **STD-EvalKit / BinarySOSMetrics**  
-  [![EvalKit](https://img.shields.io/badge/Evaluation-STD--EvalKit-orange)](https://github.com/IRSTD/STD-EvalKit)
