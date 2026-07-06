@@ -1,8 +1,6 @@
 # Infrared Small Target Detection Methods
 
-> Badge style: inline Markdown badges. No reference-style badge definitions are used.
 
-## U-Net / U-shaped / U-Net-related IRSTD Methods
 
 - **MSHNet: Infrared Small Target Detection with Scale and Location Sensitivity**  
   *Qiankun Liu et al., CVPR 2024*  
