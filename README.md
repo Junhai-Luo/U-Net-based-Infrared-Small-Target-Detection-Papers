@@ -1,4 +1,4 @@
-# Infrared Small Target Detection Methods
+# U-Net-based-Infrared-Small-Target-Detection-Methods
 
 A curated collection of papers, code, datasets, and evaluation metrics for U-Net-based Infrared Small Target Detection (IRSTD).
 
