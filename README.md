@@ -1,139 +1,188 @@
 # Infrared Small Target Detection Methods
 
 
+## 2026
 
-- **MSHNet: Infrared Small Target Detection with Scale and Location Sensitivity**  
-  *Qiankun Liu et al., CVPR 2024*  
-  [![Paper](https://img.shields.io/badge/Paper-CVPR_2024-blue)](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Infrared_Small_Target_Detection_with_Scale_and_Location_Sensitivity_CVPR_2024_paper.html)
-  [![PDF](https://img.shields.io/badge/PDF-CVF-red)](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Infrared_Small_Target_Detection_with_Scale_and_Location_Sensitivity_CVPR_2024_paper.pdf)
-  [![arXiv](https://img.shields.io/badge/arXiv-2403.19366-b31b1b)](https://arxiv.org/abs/2403.19366)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ying-fu/MSHNet)
+- **SANet:** Selective Attention-Based Network for Robust Infrared Small Target Detection.
 
-- **ISNet: Shape Matters for Infrared Small Target Detection**  
-  *Mingjin Zhang et al., CVPR 2022*  
-  [![Paper](https://img.shields.io/badge/Paper-CVPR_2022-blue)](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.html)
-  [![PDF](https://img.shields.io/badge/PDF-CVF-red)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf)
-  [![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B)](https://ieeexplore.ieee.org/document/9880295)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/RuiZhang97/ISNet)
+  - Y. Zhang, W. Su, Q. Xiao, and Y. Yang. **Preprint, 2026**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://arxiv.org/abs/2605.00886) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/abs/2605.00886)
 
-- **ACM / ACM-U-Net: Asymmetric Contextual Modulation for Infrared Small Target Detection**  
-  *Yimian Dai et al., WACV 2021*  
-  [![Paper](https://img.shields.io/badge/Paper-WACV_2021-blue)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html)
-  [![PDF](https://img.shields.io/badge/PDF-CVF-red)](https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf)
-  [![arXiv](https://img.shields.io/badge/arXiv-2009.14530-b31b1b)](https://arxiv.org/abs/2009.14530)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/YimianDai/open-acm)
-  [![Dataset](https://img.shields.io/badge/Dataset-SIRST-orange)](https://github.com/YimianDai/sirst)
+- **ADSUNet:** Accumulation-Difference-Based Siamese U-Net for Inter-Frame Infrared Dim and Small Target Detection.
 
-- **UIU-Net: U-Net in U-Net for Infrared Small Object Detection**  
-  *Xin Wu, Danfeng Hong, Jocelyn Chanussot, IEEE TIP 2023*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_TIP-blue)](https://doi.org/10.1109/TIP.2022.3228497)
-  [![arXiv](https://img.shields.io/badge/arXiv-2212.00968-b31b1b)](https://arxiv.org/abs/2212.00968)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/danfenghong/IEEE_TIP_UIU-Net)
+  - L. Zhang, Y. Xi, Z. Wang, et al. **Pattern Recognition, 2026**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006028) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://doi.org/10.1016/j.patcog.2025.111942) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/zhanglw882/ADSUNet) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/zhanglw882/ADSUNet)
 
-- **ISTDU-Net: Infrared Small-Target Detection U-Net**  
-  *Qingyu Hou et al., IEEE GRSL 2022*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_GRSL-blue)](https://doi.org/10.1109/LGRS.2022.3141584)
-  [![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B)](https://ieeexplore.ieee.org/document/9674870)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/zhanglw882/ISTDU-Net)
+- **STCEU-Net:** A Spatio-Temporal Cooperative Expanded U-Net for Multi-Frame Infrared Small Target Detection.
 
-- **DNANet: Dense Nested Attention Network for Infrared Small Target Detection**  
-  *Boyang Li et al., IEEE TIP 2022 / 2023*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_TIP-blue)](https://doi.org/10.1109/TIP.2022.3199107)
-  [![arXiv](https://img.shields.io/badge/arXiv-2106.00487-b31b1b)](https://arxiv.org/abs/2106.00487)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
+  - D. Deng, W. Liu, F. Tan, L. Zhang, and Q. Hou. **Infrared Physics & Technology, 2026**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1350449526003014) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://doi.org/10.1016/j.infrared.2026.106666)
 
-- **EAAU-Net: Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection**  
-  *Xiaoling Tong et al., Remote Sensing 2021*  
-  [![Paper](https://img.shields.io/badge/Paper-MDPI_Remote_Sensing-blue)](https://www.mdpi.com/2072-4292/13/16/3200)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+- **MAR-UNet:** Multi-Scale Attention Residual Network for Infrared Small Target Detection.
 
-- **DI-U-Net: Deep Interactive U-Net for Infrared Small Target Detection**  
-  *IEEE GRSL 2022*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_GRSL-blue)](https://ieeexplore.ieee.org/document/9934920)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - L. Li, L. Wang, et al. **Infrared Physics & Technology, 2026**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1350449526002549) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1350449526002549)
 
-- **ifUNet++: Iterative Feedback UNet++ for Infrared Small Target Detection**  
-  *ICASSP 2023*  
-  [![Paper](https://img.shields.io/badge/Paper-ICASSP_2023-blue)](https://ieeexplore.ieee.org/document/10095364)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+## 2025
 
-- **MTU-Net: Multilevel TransUNet for Space-Based Infrared Tiny Ship Detection**  
-  *IEEE TGRS 2023*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_TGRS-blue)](https://ieeexplore.ieee.org/document/10011449)
-  [![arXiv](https://img.shields.io/badge/arXiv-2209.13756-b31b1b)](https://arxiv.org/abs/2209.13756)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+- **CN-UNet:** ConvNeXt UNet With Slicing-Aided Hyper Segmentation for Infrared Small Target Detection.
 
-- **Full-Scale Skip Connection U-Net for Infrared Small Target Detection**  
-  *IEEE GRSL 2023*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_GRSL-blue)](https://ieeexplore.ieee.org/document/10124752)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - L. Li, L. Liu, Z. Zhong, et al. **JSTARS, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/11237164) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://ieeexplore.ieee.org/document/11237164)
 
-- **SCTransNet: Spatial-Channel Cross Transformer Network for Infrared Small Target Detection**  
-  *IEEE TGRS 2024*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_TGRS-blue)](https://ieeexplore.ieee.org/document/10486932)
-  [![arXiv](https://img.shields.io/badge/arXiv-2401.15583-b31b1b)](https://arxiv.org/abs/2401.15583)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/xdFai/SCTransNet)
+- **MNHU-Net:** A Multiscale Feature Fusion and Nested Structure-Based High-Order U-Net for Infrared Small Target Detection.
 
-- **GSTUnet: Gated-Shaped TransUnet for Infrared Small Target Detection**  
-  *IEEE TGRS 2024*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_TGRS-blue)](https://ieeexplore.ieee.org/document/10496183)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - X. Yuan, et al. **TAES, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/10979417) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://ieeexplore.ieee.org/document/10979417)
 
-- **MST-UNet: Multi-Scale Transformer U-Net for Infrared Small Target Detection**  
-  *Sensors 2024*  
-  [![Paper](https://img.shields.io/badge/Paper-MDPI_Sensors-blue)](https://www.mdpi.com/1424-8220/24/13/4227)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+- **DBJC-UNet:** Double Bridge Jump Connection U-Net for Infrared Small Target Detection.
 
-- **CSAN-UNet: Channel Spatial Attention Nested UNet for Infrared Small Target Detection**  
-  *Remote Sensing 2024*  
-  [![Paper](https://img.shields.io/badge/Paper-MDPI_Remote_Sensing-blue)](https://www.mdpi.com/2072-4292/16/11/1894)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - J. Ni, et al. **GRSL, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/11162688) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://ieeexplore.ieee.org/document/11162688)
 
-- **ID-UNet: A Densely Connected UNet Architecture for Infrared Small Target Segmentation**  
-  *Alexandria Engineering Journal 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-blue)](https://www.sciencedirect.com/science/article/pii/S1110016824011323)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+- **HintU:** Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features.
 
-- **IDNA-UNet: Improved Dense Nesting and Attention U-Net for Infrared Small Target Detection**  
-  *Sensors 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-MDPI_Sensors-blue)](https://www.mdpi.com/1424-8220/25/3/814)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - W. Quan, W. Zhao, W. Wang, H. Xie, F. L. Wang, and M. Wei. **TGRS, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://arxiv.org/abs/2406.13445) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/abs/2406.13445) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/Wuzhou-Quan/HintU) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/Wuzhou-Quan/HintU)
 
-- **CN-UNet: ConvNeXt UNet With Slicing-Aided Hyper Segmentation for Infrared Small Target Detection**  
-  *IEEE JSTARS 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_JSTARS-blue)](https://ieeexplore.ieee.org/document/11237164)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+- **IRTransUNet:** Efficient Transformer Embedding UNet for Infrared Small Target Detection.
 
-- **MNHU-Net: Multiscale Feature Fusion and Nested Structure-Based High-Order U-Net**  
-  *IEEE TAES 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE_TAES-blue)](https://ieeexplore.ieee.org/document/10979417)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - Y. Pi, L. Kong, B. Yang, R. Chang, H. Pu, et al. **Infrared Physics & Technology, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1350449525003548) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://doi.org/10.1016/j.infrared.2025.106061)
 
-- **Lost in UNet / HintU: Improving Infrared Small Target Detection by Underappreciated Local Features**  
-  *IEEE TGRS 2025*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2406.13445-b31b1b)](https://arxiv.org/abs/2406.13445)
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzhou-Quan/HintU)
+- **DBCE U-Net:** Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network.
 
-- **IRTransUNet: Efficient Transformer Embedding UNet for Infrared Small Target Detection**  
-  *Infrared Physics & Technology 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-blue)](https://www.sciencedirect.com/science/article/abs/pii/S1350449525003548)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - B. Xiao, W. Zhou, T. Wang, et al. **Digital Signal Processing, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1051200425000107) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1051200425000107)
 
-- **DBCE U-Net: Dual-Branch Contrast-Enhanced U-Net for Infrared Small Target Detection**  
-  *Digital Signal Processing 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-blue)](https://www.sciencedirect.com/science/article/abs/pii/S1051200425000107)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+- **U-SCIFNet:** Infrared Small Target Detection Through U-Shaped Network With Spatial-Channel Interaction Fusion.
 
-- **GLKA-UNet: A Global-Local Aware UNet with KAN Attention for Infrared Small Target Detection**  
-  *PRCV / Springer 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-Springer-blue)](https://link.springer.com/chapter/10.1007/978-981-95-5628-1_28)
-  [![ACM DL](https://img.shields.io/badge/Index-ACM_DL-purple)](https://dl.acm.org/doi/10.1007/978-981-95-5628-1_28)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+  - M. Duan, et al. **Measurement, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S0263224125012497) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S0263224125012497) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/MingboDuan/U-SCIFNet) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/MingboDuan/U-SCIFNet)
 
-- **SANet: Selective Attention-Based Network for Robust Infrared Small Target Detection**  
-  *arXiv 2026*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.00886-b31b1b)](https://arxiv.org/abs/2605.00886)
-  ![Code](https://img.shields.io/badge/Code-Not_confirmed-lightgrey)
+- **ID-UNet:** A Densely Connected UNet Architecture for Infrared Small Target Segmentation.
+
+  - D. Chen, et al. **Alexandria Engineering Journal, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1110016824011323) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1110016824011323)
+
+- **IDNA-UNet:** Infrared Small Target Detection Algorithm Based on Improved Dense Nested U-Net Network.
+
+  - X. Du, et al. **Sensors, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.mdpi.com/1424-8220/25/3/814) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.mdpi.com/1424-8220/25/3/814)
+
+- **MTTU-Net:** Memory-Based Temporal Transformer U-Net for Multi-Frame Infrared Small Target Detection.
+
+  - Z. Feng, et al. **Remote Sensing, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.mdpi.com/2072-4292/17/23/3801) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.mdpi.com/2072-4292/17/23/3801)
+
+- **GLKA-UNet:** A Global-Local Aware UNet with KAN Attention for Infrared Small Target Detection.
+
+  - X. Zhang, et al. **PRCV, 2025 / Springer, 2026**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://link.springer.com/chapter/10.1007/978-981-95-5628-1_28) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://doi.org/10.1007/978-981-95-5628-1_28) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/zhangxiangping677-ai/GLKA_UNet-for-IRSTD) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/zhangxiangping677-ai/GLKA_UNet-for-IRSTD)
+
+- **MSCA-Net:** Multi-Scale Context Aggregation Network for Infrared Small Target Detection.
+
+  - X. Lu, T. Yue, J. Cai, and S. Chu. **Preprint, 2025 / Optics & Laser Technology, 2025**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://arxiv.org/html/2503.17193v1) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/html/2503.17193v1)
+
+## 2024
+
+- **MSHNet:** Infrared Small Target Detection with Scale and Location Sensitivity.
+
+  - Q. Liu, R. Liu, B. Zheng, H. Wang, and Y. Fu. **CVPR, 2024**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Infrared_Small_Target_Detection_with_Scale_and_Location_Sensitivity_CVPR_2024_paper.html) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Infrared_Small_Target_Detection_with_Scale_and_Location_Sensitivity_CVPR_2024_paper.pdf) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/Lliu666/MSHNet) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/Lliu666/MSHNet)
+
+- **SCTransNet:** Spatial-Channel Cross Transformer Network for Infrared Small Target Detection.
+
+  - S. Yuan, H. Qin, X. Yan, N. Akhtar, and A. Mian. **TGRS, 2024**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/10486932) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/abs/2401.15583) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/xdFai/SCTransNet) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/xdFai/SCTransNet)
+
+- **GSTUnet:** Toward Accurate Infrared Small Target Detection via Edge-Aware Gated Transformer.
+
+  - Y. Zhu, Y. Ma, F. Fan, J. Huang, K. Wu, and G. Wang. **TGRS, 2024**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/10496183) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://ieeexplore.ieee.org/document/10496183)
+
+- **MST-UNet:** An Improved U-Net Infrared Small Target Detection Algorithm Based on Multi-Scale Feature Decomposition Fusion and Attention Mechanism.
+
+  - X. Fan, et al. **Sensors, 2024**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.mdpi.com/1424-8220/24/13/4227) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.mdpi.com/1424-8220/24/13/4227)
+
+- **CSAN-UNet:** Channel Spatial Attention Nested UNet for Infrared Small Target Detection.
+
+  - Y. Zhong, Z. Shi, Y. Zhang, Y. Zhang, and H. Li. **Remote Sensing, 2024**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.mdpi.com/2072-4292/16/11/1894) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.mdpi.com/2072-4292/16/11/1894)
+
+## 2023
+
+- **SFA-UNet:** More Attention to Multi-Scale Contrast and Contextual Information in Infrared Small Object Segmentation.
+
+  - I. A. Shah, F. M. Malik, and M. W. Ashraf. **Preprint, 2024 / PRIP, 2023**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://arxiv.org/abs/2410.22881) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/pdf/2410.22881) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/imadalishah/SFA_UNet) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/imadalishah/SFA_UNet)
+
+- **UIU-Net:** U-Net in U-Net for Infrared Small Object Detection.
+
+  - X. Wu, D. Hong, and J. Chanussot. **TIP, 2023**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://doi.org/10.1109/TIP.2022.3228497) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/abs/2212.00968) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/danfenghong/IEEE_TIP_UIU-Net) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/danfenghong/IEEE_TIP_UIU-Net)
+
+- **ifUNet++:** Iterative Feedback UNet++ for Infrared Small Target Detection.
+
+  - Z. Weng, et al. **ICASSP, 2023**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/10095364) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://ieeexplore.ieee.org/document/10095364)
+
+- **MTU-Net:** Multilevel TransUNet for Space-Based Infrared Tiny Ship Detection.
+
+  - T. Wu, B. Li, Y. Luo, Y. Wang, C. Xiao, et al. **TGRS, 2023**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/10011449) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/abs/2209.13756) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/TianhaoWu16/Multi-level-TransUNet-for-Space-based-Infrared-Tiny-ship-Detection) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/TianhaoWu16/Multi-level-TransUNet-for-Space-based-Infrared-Tiny-ship-Detection)
+
+- **FS-UNet:** Lightweight Infrared Small Target Detection Network Using Full-Scale Skip Connection U-Net.
+
+  - W. Y. Chung, I. H. Lee, and C. G. Park. **GRSL, 2023**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/10124752) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://ieeexplore.ieee.org/document/10124752)
+
+- **IDNANet:** Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection.
+
+  - C. Bao, J. Cao, Y. Ning, T. Zhao, Z. Li, et al. **Preprint, 2023**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://arxiv.org/abs/2311.08747) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/abs/2311.08747) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/EdwardBao1006/bit_sirst) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/EdwardBao1006/bit_sirst) [![Dataset](https://img.shields.io/badge/-Dataset-f39c12?style=flat-square)](https://github.com/EdwardBao1006/bit_sirst)
+
+## 2022
+
+- **ISNet:** Shape Matters for Infrared Small Target Detection.
+
+  - M. Zhang, R. Zhang, Y. Yang, et al. **CVPR, 2022**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.html) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/RuiZhang97/ISNet) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/RuiZhang97/ISNet) [![Dataset](https://img.shields.io/badge/-Dataset-f39c12?style=flat-square)](https://github.com/RuiZhang97/ISNet)
+
+- **ISTDU-Net:** Infrared Small-Target Detection U-Net.
+
+  - Q. Hou, L. Zhang, F. Tan, Y. Xi, H. Zheng, and N. Li. **GRSL, 2022**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/9674870) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://doi.org/10.1109/LGRS.2022.3141584) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/zhanglw882/ISTDU-Net) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/zhanglw882/ISTDU-Net)
+
+- **DI-U-Net:** Deep Interactive U-Net for Infrared Small Target Detection.
+
+  - X. Wu, D. Hong, Z. Huang, and J. Chanussot. **GRSL, 2022**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://ieeexplore.ieee.org/document/9934920) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://ieeexplore.ieee.org/document/9934920)
+
+- **U-Transformer:** Infrared Dim and Small Target Detection Based on U-Transformer.
+
+  - J. Lin, K. Zhang, X. Yang, X. Cheng, and C. Li. **JVCIR, 2022**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1047320322002048) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1047320322002048) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/Linaom1214/U-Transformer) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)](https://github.com/Linaom1214/U-Transformer)
+
+## 2021
+
+- **ACM-U-Net:** Asymmetric Contextual Modulation for Infrared Small Target Detection.
+
+  - Y. Dai, Y. Wu, F. Zhou, and K. Barnard. **WACV, 2021**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/YimianDai/open-acm) [![MXNet](https://img.shields.io/badge/-MXNet-00a0e9?style=flat-square)](https://github.com/YimianDai/open-acm) [![Dataset](https://img.shields.io/badge/-Dataset-f39c12?style=flat-square)](https://github.com/YimianDai/sirst)
+
+- **EAAU-Net:** Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection.
+
+  - X. Tong, et al. **Remote Sensing, 2021**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://www.mdpi.com/2072-4292/13/16/3200) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://www.mdpi.com/2072-4292/13/16/3200)
+
+- **DNANet:** Dense Nested Attention Network for Infrared Small Target Detection.
+
+  - B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, et al. **TIP, 2022**.
+  - [![Link](https://img.shields.io/badge/-Link-555555?style=flat-square)](https://doi.org/10.1109/TIP.2022.3199107) [![Paper](https://img.shields.io/badge/-Paper-007ec6?style=flat-square)](https://arxiv.org/abs/2106.00487) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square)](https://github.com/YeRen123455/Infrared-Small-Target-Detection) [![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square)](https://github.com/YeRen123455/Infrared-Small-Target-Detection) [![Dataset](https://img.shields.io/badge/-Dataset-f39c12?style=flat-square)](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
+
 
 
 ## International Conference / Top-Venue IRSTD Methods
