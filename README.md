@@ -1,6 +1,6 @@
 # U-Net-based-Infrared-Small-Target-Detection-Methods
 
-A curated collection of papers, code, datasets, and evaluation metrics for U-Net-based #Infrared Small Target Detection (IRSTD)#.
+A curated collection of papers, code, datasets, and evaluation metrics for U-Net-based **Infrared Small Target Detection (IRSTD)**.
 
 This repository focuses on infrared small target detection methods based on U-Net, UNet++, U-shaped encoder-decoder networks, nested U-Net, TransUNet, and related variants.
 
